@@ -11,10 +11,3 @@
     <li><strong>Game Logic:</strong> Complete implementation of Uno rules and gameplay mechanics.</li>
     <li><strong>State Saving and Loading:</strong> Save your game progress and load it later from a database.</li>
 </ul>
-
-<h2>Technologies Used</h2>
-<ul style="font-size: 14px;">
-    <li>Entity Framework: For database management and state saving.</li>
-    <li>Console Application: For user interface and interaction.</li>
-    <li>Data Access Layer (DAL): For managing data persistence and retrieval.</li>
-</ul>
