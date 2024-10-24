@@ -1,0 +1,17 @@
+C:\Users\user\RiderProjects\Uno\GameEngine\bin\Debug\net7.0\GameEngine.deps.json
+C:\Users\user\RiderProjects\Uno\GameEngine\bin\Debug\net7.0\GameEngine.dll
+C:\Users\user\RiderProjects\Uno\GameEngine\bin\Debug\net7.0\GameEngine.pdb
+C:\Users\user\RiderProjects\Uno\GameEngine\bin\Debug\net7.0\Domain.dll
+C:\Users\user\RiderProjects\Uno\GameEngine\bin\Debug\net7.0\Helpers.dll
+C:\Users\user\RiderProjects\Uno\GameEngine\bin\Debug\net7.0\Domain.pdb
+C:\Users\user\RiderProjects\Uno\GameEngine\bin\Debug\net7.0\Helpers.pdb
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\GameEngine.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\GameEngine.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\GameEngine.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\GameEngine.dll
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\refint\GameEngine.dll
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\GameEngine.pdb
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\ref\GameEngine.dll
+C:\Users\user\RiderProjects\Uno\GameEngine\obj\Debug\net7.0\GameEngine.csproj.Up2Date

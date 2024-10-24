@@ -1,0 +1,11 @@
+C:\Users\user\RiderProjects\Uno\MenuSystem\bin\Debug\net7.0\MenuSystem.deps.json
+C:\Users\user\RiderProjects\Uno\MenuSystem\bin\Debug\net7.0\MenuSystem.dll
+C:\Users\user\RiderProjects\Uno\MenuSystem\bin\Debug\net7.0\MenuSystem.pdb
+C:\Users\user\RiderProjects\Uno\MenuSystem\obj\Debug\net7.0\MenuSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Uno\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Uno\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Uno\MenuSystem\obj\Debug\net7.0\MenuSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Uno\MenuSystem\obj\Debug\net7.0\MenuSystem.dll
+C:\Users\user\RiderProjects\Uno\MenuSystem\obj\Debug\net7.0\refint\MenuSystem.dll
+C:\Users\user\RiderProjects\Uno\MenuSystem\obj\Debug\net7.0\MenuSystem.pdb
+C:\Users\user\RiderProjects\Uno\MenuSystem\obj\Debug\net7.0\ref\MenuSystem.dll

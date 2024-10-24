@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GameEngine/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "GameEngine.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "dependencies": {
+          "Helpers": "1.0.0"
+        },
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "Helpers/1.0.0": {
+        "runtime": {
+          "Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

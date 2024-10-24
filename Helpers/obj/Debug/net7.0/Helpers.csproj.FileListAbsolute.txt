@@ -1,0 +1,11 @@
+C:\Users\user\RiderProjects\Uno\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\Users\user\RiderProjects\Uno\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\Users\user\RiderProjects\Uno\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\Users\user\RiderProjects\Uno\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Uno\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Uno\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Uno\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Uno\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\Users\user\RiderProjects\Uno\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\Users\user\RiderProjects\Uno\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\Users\user\RiderProjects\Uno\Helpers\obj\Debug\net7.0\ref\Helpers.dll
